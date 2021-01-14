@@ -38,3 +38,6 @@ git commit -m "Commit Message"
 git push
 ```
 Note: [Git Documentation](https://git-scm.com/docs/gittutorial)
+
+## License
+The project is license under MIT License - see the [LICENSE.md](./LICENSE.md) file for details
